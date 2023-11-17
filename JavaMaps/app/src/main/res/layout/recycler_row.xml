@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:text="test"
         android:textSize="22sp"
-        android:textColor="@color/material_dynamic_primary70"
+        android:textColor="@color/black"
         android:layout_margin="5dp"
 
         ></TextView>
